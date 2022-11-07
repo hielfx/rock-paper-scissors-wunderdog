@@ -46,11 +46,11 @@ yarn test:coverage
 
 ## TODO:
 
-[] Explain project structure
-[] Add more testing to the project and increase coverage
-[] Add Dockerfile and docker-compose
-[] Display player statistics
-[] Refactor the code
-[] Remove unused comments
-[] Improve README
-...
+- [ ] Explain project structure
+- [ ] Add more testing to the project and increase coverage
+- [ ] Add Dockerfile and docker-compose
+- [ ] Display player statistics
+- [ ] Refactor the code
+- [ ] Remove unused comments
+- [ ] Improve README
+- ...
