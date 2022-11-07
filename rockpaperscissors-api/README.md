@@ -37,16 +37,16 @@ make coverage
 
 ## TODO:
 
-[] Explain project structure
-[] Add more testing to the project and increase coverage
-[] Add integration testing (API calls)
-[] Add cross compile options
-[] Add Dockerfile and docker-compose
-[] Display player statistics
-[] Use a real database
-[] Separete database logic and websocket logic
-[] Separate domain logic and websocket logic
-[] Refactor the code
-[] Remove unused comments
-[] Improve README
+- [ ] Explain project structure
+- [ ] Add more testing to the project and increase coverage
+- [ ] Add integration testing (API calls)
+- [ ] Add cross compile options
+- [ ] Add Dockerfile and docker-compose
+- [ ] Display player statistics
+- [ ] Use a real database
+- [ ] Separete database logic and websocket logic
+- [ ] Separate domain logic and websocket logic
+- [ ] Refactor the code
+- [ ] Remove unused comments
+- [ ] Improve README
 ...
