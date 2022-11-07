@@ -128,7 +128,7 @@ const GameManager = () => {
 
   return (
     <div>
-      <p>{JSON.stringify(game)}</p>
+      {/* <p>{JSON.stringify(game)}</p> */}
       {game.id && Object.keys(game.players).length < 2 && (
         <p>
           Send this ID to your friend! <b>{game.id}</b>
@@ -142,7 +142,7 @@ const GameManager = () => {
           <br />
           {game.status === "STARTED" && <ChoiceSelection />}
           <br />
-          {game.status === "FINISHED" && (
+          {game.status !== "FINISHED" && (
             <Button onClick={handlePause}>Pause game</Button>
           )}
         </>
